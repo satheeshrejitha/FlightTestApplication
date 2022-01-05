@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "628dc7b9-3a41-48ad-8494-59b0fe9d7311": {
+      "ProjectGuid": "628dc7b9-3a41-48ad-8494-59b0fe9d7311",
+      "DisplayName": "TestFlights.Console",
+      "ColorIndex": 0
+    },
+    "1dd2e92b-c353-4550-8335-74c4d073399f": {
+      "ProjectGuid": "1dd2e92b-c353-4550-8335-74c4d073399f",
+      "DisplayName": "TestFlights.UnitTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

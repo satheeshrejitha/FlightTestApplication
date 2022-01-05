@@ -1,0 +1,15 @@
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\TestFlights.exe
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\TestFlights.deps.json
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\TestFlights.runtimeconfig.json
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\TestFlights.dll
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\ref\TestFlights.dll
+C:\Projects\NET\TestFlights\bin\Debug\net6.0\TestFlights.pdb
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.csproj.AssemblyReference.cache
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.AssemblyInfoInputs.cache
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.AssemblyInfo.cs
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.csproj.CoreCompileInputs.cache
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.dll
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\ref\TestFlights.dll
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.pdb
+C:\Projects\NET\TestFlights\obj\Debug\net6.0\TestFlights.genruntimeconfig.cache
